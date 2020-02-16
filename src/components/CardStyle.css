@@ -1,0 +1,22 @@
+.CardBox {
+  width: 550px;
+  height: 340px;
+  background-color: #042848;
+  color: white;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+.image {
+  width: 140px;
+  height: 100px;
+}
+.image-logo {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 10px;
+  margin: 66px 400px;
+}
+.credit-card-content {
+  flex: 1;
+  padding-right: 10px;
+}
